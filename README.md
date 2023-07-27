@@ -1,3 +1,3 @@
 # NetSim
-Simulation of classical WSN routing algorithm with obstacles
+Wireless Sensor Network Routing Algorithm Simulation with Obstacles
 
