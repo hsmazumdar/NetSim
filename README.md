@@ -12,6 +12,7 @@ Figure 1: Routing with Red Obstacle using AStar and BestFirst Algorithms. AStar 
 
 
 
-1.   Enter desired number of nodes and press Node button(5) to populate random distribution of desired number of nodes.
+1.   ![image](https://github.com/hsmazumdar/NetSim/assets/16040087/bf9f2adc-37b6-465b-9d34-64e92dcdf89e)
+Enter desired number of nodes and press Node button(5) to populate random distribution of desired number of nodes.
 
 
