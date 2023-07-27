@@ -6,6 +6,7 @@ Wireless Sensor Network Routing Algorithm Simulation with Obstacles
 Figure 1: Routing with Red Obstacle using AStar and BestFirst Algorithms. AStar rout is shown in pink and BestFirst is in maroon colors. The scores of each algorithm (Total number of nodes per path) are displayed on the right.
 
  
+![image](https://github.com/hsmazumdar/NetSim/assets/16040087/7c5be72b-abcb-40db-a3ff-d6f2f2c8b5bd)
 
  
 
