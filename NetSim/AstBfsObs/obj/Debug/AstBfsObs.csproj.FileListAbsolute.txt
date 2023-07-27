@@ -1,0 +1,8 @@
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.exe
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.pdb
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\bin\Debug\AstBfsObs.exe
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\bin\Debug\AstBfsObs.pdb
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.HelpDoc.resources
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.NetSim.resources
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.Properties.Resources.resources
+D:\_July2023\MrudangPhDOldCodes\26072023\AstBfsObs\AstBfsObs\obj\Debug\AstBfsObs.csproj.GenerateResource.Cache
