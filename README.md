@@ -14,11 +14,14 @@ Figure 1: Routing with Red Obstacle using AStar and BestFirst Algorithms. AStar 
 1.   ![image](https://github.com/hsmazumdar/NetSim/assets/16040087/bf9f2adc-37b6-465b-9d34-64e92dcdf89e)
 Enter desired number of nodes and press Node button(5) to populate random distribution of desired number of nodes.
 
-2.   Simulation zone is divided in Number of Column, Number of Rows (eg. 6,4) matrix to enable node distribution constrain of uniformly random distribution of nodes with 6 columns and 4 rows. Press Grid (3) to implement and show the grid.
+2.   ![image](https://github.com/hsmazumdar/NetSim/assets/16040087/89eaf29c-067d-480f-8128-9bc7fa88336e)
+Simulation zone is divided in Number of Column, Number of Rows (eg. 6,4) matrix to enable node distribution constrain of uniformly random distribution of nodes with 6 columns and 4 rows. Press Grid (3) to implement and show the grid.
 
-3.   Select Grid check box to display grid as per the dimensions (Column, Row) as specified in Zones (2).
+3.   ![image](https://github.com/hsmazumdar/NetSim/assets/16040087/b62093e6-3801-4c3d-b56d-a478c80eda02)
+Select Grid check box to display grid as per the dimensions (Column, Row) as specified in Zones (2).
 
-4.  Press Clear button to clear the nodes deployment. Pressing this will give blank region. 
+4.  ![image](https://github.com/hsmazumdar/NetSim/assets/16040087/dcaf85c0-c3ba-479a-b401-1c3139b5802c)
+Press Clear button to clear the nodes deployment. Pressing this will give blank region. 
 
 5.  Press Node button to populate number of nodes as specified in a text-box with label “Nodes”.
 
